@@ -1,7 +1,8 @@
-# ZhiMaStar.com
-「芝麻星」对外公开issues
+# OpenMindClub.com
 
-本库用于收集各位使用zhimastar.com碰到的问题。
+「开智学堂」卡片系统对外公开 issues
 
-请直接在 https://github.com/OpenMindClub/zhimastar/issues 提交。
+本库用于收集各位使用 OpenMindClub.com 碰到的问题。
+
+请直接在 https://github.com/OpenMindClub/OMCapp/issues 提交。
 
