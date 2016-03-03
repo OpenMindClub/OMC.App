@@ -4,5 +4,5 @@
 
 本库用于收集各位使用 OpenMindClub.com 碰到的问题。
 
-请直接在 https://github.com/OpenMindClub/OMCapp/issues 提交。
+请直接在 https://github.com/OpenMindClub/OMC.App/issues 提交。
 
